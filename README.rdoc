@@ -1,0 +1,6 @@
+= redmine_count_workdays
+
+Warning: Redmine 2.5.1 only
+This plugin override app/views/timelog/report.html.erb .
+
+Show count work days and over work hours(fixed: 1day 8hours) within timelog report at bottom.
