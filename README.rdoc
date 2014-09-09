@@ -1,6 +1,6 @@
 = redmine_count_workdays
 
-Warning: Redmine 2.5.1 only
+Warning: Redmine 2.5.1/2.5.2 only
 
 This plugin override app/views/timelog/report.html.erb .
 
